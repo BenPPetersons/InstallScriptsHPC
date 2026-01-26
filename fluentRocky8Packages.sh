@@ -1,3 +1,4 @@
+#!/bin/bash 
 # Install epel-release and update
 sudo dnf install epel-release -y && sudo dnf update -y
 # Install tmux and btop for ease of use
